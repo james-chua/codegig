@@ -1,0 +1,6 @@
+node_modules
+.env
+models/Gig-datatypes.js
+notes.txt
+create_db_admin.sql
+codegig_html
